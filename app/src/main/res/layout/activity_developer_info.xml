@@ -96,7 +96,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginBottom="16dp"
-                            android:text="Shan Tharaka"
+                            android:text="Shhan Tharaka"
                             android:textColor="#333333"
                             android:textSize="14sp" />
 
