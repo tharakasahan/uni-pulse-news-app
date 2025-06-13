@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620546904198",
+    "project_id": "unipulse-news",
+    "storage_bucket": "unipulse-news.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620546904198:android:5f2b6ad31cd23d37394107",
+        "android_client_info": {
+          "package_name": "com.assignment.uniplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASVOrwB0PR0LzvMBMdNpZh-1aLgJXgEhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620546904198:android:f06f5a682e352f60394107",
+        "android_client_info": {
+          "package_name": "com.yourusername.uniplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASVOrwB0PR0LzvMBMdNpZh-1aLgJXgEhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

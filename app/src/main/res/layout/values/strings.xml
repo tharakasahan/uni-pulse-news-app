@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UniVibe</string>
+    <string-array name="news_type_array">
+        <item>academic</item>
+        <item>events</item>
+        <item>sports</item>
+    </string-array>
+
+    <!-- Navigation Menu Items -->
+    <string name="nav_academic">Academic</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_sports">Sports</string>
+
+    <!-- Other strings -->
+    <string name="add_news">Add News</string>
+    <string name="submit_news">Submit News</string>
+    <string name="select_image">Select Image</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_academic_news_available_at_the_moment">No academic news available at the moment.</string>
+
+</resources>
